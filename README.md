@@ -16,7 +16,7 @@ Welcome to the **Training-Git-GitHub-Jira-SDLC** workspace! This repository is d
     </a>
     &nbsp;&nbsp;
     <a href="https://www.atlassian.com/software-development/software-development-life-cycle" target="_blank">
-        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-sdlc-computer-programming-flaticons-flat-flat-icons.png" alt="SDLC" width="48" title="SDLC">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="SDLC" width="48" title="SDLC">
     </a>
 </p>
 
