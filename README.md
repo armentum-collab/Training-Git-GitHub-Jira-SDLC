@@ -2,6 +2,7 @@
 
 Welcome to the **Training-Git-GitHub-Jira-SDLC** workspace! This repository is designed to help you learn and practice essential tools and processes for modern software development.
 
+## Technologies
 
 <div style="display: flex; gap: 16px;">
 
