@@ -2,31 +2,23 @@
 
 Welcome to the **Training-Git-GitHub-Jira-SDLC** workspace! This repository is designed to help you learn and practice essential tools and processes for modern software development.
 
-## Technologies
-
-<div style="display: flex; gap: 16px;">
-
-    <div style="display: flex; align-items: center; background: linear-gradient(90deg, #444 50%, #a4d037 50%); border-radius: 8px; padding: 4px 16px; min-width: 180px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="32" height="32" style="background: #fff; border-radius: 6px; margin-right: 12px;">
-        <span style="color: #fff; font-weight: bold; font-size: 1.1em;">Git</span>
-    </div>
-
-    <div style="display: flex; align-items: center; background: linear-gradient(90deg, #444 50%, #a4d037 50%); border-radius: 8px; padding: 4px 16px; min-width: 180px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" style="background: #fff; border-radius: 6px; margin-right: 12px;">
-        <span style="color: #fff; font-weight: bold; font-size: 1.1em;">GitHub</span>
-    </div>
-
-    <div style="display: flex; align-items: center; background: linear-gradient(90deg, #444 50%, #a4d037 50%); border-radius: 8px; padding: 4px 16px; min-width: 180px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="32" height="32" style="background: #fff; border-radius: 6px; margin-right: 12px;">
-        <span style="color: #fff; font-weight: bold; font-size: 1.1em;">Jira</span>
-    </div>
-
-    <div style="display: flex; align-items: center; background: linear-gradient(90deg, #444 50%, #a4d037 50%); border-radius: 8px; padding: 4px 16px; min-width: 180px;">
-        <img src="https://img.icons8.com/fluency/96/000000/process.png" alt="SDLC" width="32" height="32" style="background: #fff; border-radius: 6px; margin-right: 12px;">
-        <span style="color: #fff; font-weight: bold; font-size: 1.1em;">SDLC</span>
-    </div>
-
-</div>
+<p align="center">
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" title="Git">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" title="GitHub">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.atlassian.com/software/jira" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="48" title="Jira">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.atlassian.com/software-development/software-development-life-cycle" target="_blank">
+        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-sdlc-computer-programming-flaticons-flat-flat-icons.png" alt="SDLC" width="48" title="SDLC">
+    </a>
+</p>
 
 ## Overview
 
